@@ -74,3 +74,11 @@ This project addresses:
 1. Clone this repository:  
    ```bash
    git clone https://github.com/yourusername/banking-customers-insights-dashboard.git
+
+## 📑Project Report
+[Download Project Report PPT](https://github.com/Jeedisushmitha/Banking-Customers-Insights-Dashboard/blob/main/FINAL%20PPT.pptx)
+
+## 🖼 Dashboard Preview
+![Dashboard Preview](https://github.com/Jeedisushmitha/Banking-Customers-Insights-Dashboard/blob/main/Screenshot%20(181).png)
+   
+
