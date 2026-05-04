@@ -60,7 +60,9 @@ This project addresses:
 
 ## 🖼 Project Image
 [Download Dashboard Image](https://your-link-here.com/project-image.png)
-
+## 🖼 Dashboard Preview
+![Dashboard Preview](https://github.com/Jeedisushmitha/Banking-Customers-insights-Dashboards/blob/main/Screenshot%20(181).png)
+![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)
 ---
 
 ## 🚀 Getting Started
